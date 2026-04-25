@@ -47,3 +47,16 @@ El objetivo del proyecto es entender el comportamiento de los clientes, entender
 •	Segmentación: Crear segmentaciones basadas en reglas claras; visualizar proporciones con countplots.
 
 •	Insight ejecutivo: Redactar conclusiones y recomendaciones comerciales basadas en los pasos anteriores.
+
+
+**Cómo reproducir el análisis:**
+
+•	Abre GitHub. 
+
+•	Ver README para obtener información general del análisis.
+
+•	Abrir el repositorio ‘Analisis_telecomunicaciones’
+
+•	Abril  **S7-Project-ConnectaTel.ipynb**
+
+•	Ejecuta las celdas en orden
