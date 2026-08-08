@@ -2,16 +2,16 @@
 
 **Objetivo:**
 
-El objetivo del proyecto es entender el comportamiento de los clientes, entender cómo usan los servicios móviles especialmente en llamadas y mensajes, clasificar los clientes por segmentos con el fin de optimizar la oferta comercial, mejorar la experiencia del usuario y ver cómo varía entre diferentes grupos de usuarios.
+El objetivo del proyecto es entender el **comportamiento de los clientes**, entender cómo usan los servicios móviles especialmente en llamadas y mensajes, clasificar los clientes por **segmentos** con el fin de optimizar la oferta comercial, mejorar la experiencia del usuario y ver cómo varía entre diferentes grupos de usuarios.
 
 
 **Datasets utilizados:**
 
 •	plans.csv: Catálogo de planes con sus precios y beneficios. Los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
 
-•	users_latam.csv:  Información de cada usuario (datos personales como edad, y ciudad, churn, fecha de registro, plan contratado.
+•	users_latam.csv:  Información de cada cliente: edad, ciudad, churn, fecha de registro, plan contratado.
 
-•	usage.csv: Actividad generada por los usuarios: llamadas, mensajes, duración, longitud.
+•	usage.csv: Actividad generada por los usuarios: llamadas (duración), mensajes (longitud).
 
 
 **Herramientas  utilizadas:** 
@@ -23,16 +23,16 @@ El objetivo del proyecto es entender el comportamiento de los clientes, entender
 
 **Preguntas del negocio:**
 
-•	¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
+•	¿Qué segmentos de clientes muestran **mayor o menor uso** de llamadas y mensajes?
 
-•	¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro?
+•	¿Qué usuarios presentan **valores atípicos** que puedan indicar comportamientos inusuales, fraude o errores de registro?
 
-•	¿Cómo varía el uso según la edad y el tipo de plan contratado?
+•	¿Cómo varía el uso según la **edad** y el **tipo de plan contratado**?
 
-•	¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
+•	¿Qué patrones pueden ayudar a **diseñar mejores planes**, optimizar la oferta y mejorar la satisfacción del cliente?
 
 
-**Etapas del análisis realizadas:**
+**Flujo general del proyecto:**
 
 •	Cargar y explorer: Cargar y explorar plans, users_latam, usage
 
